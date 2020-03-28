@@ -1,42 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Hermany13 
-Hermany13
-/
-jwt-login-wordpress
-1
-00
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
-jwt-login-wordpress/LICENSE.txt
-Hermany13/jwt-login-wordpress is licensed under the
-
-GNU General Public License v2.0
-The GNU GPL is the most widely used free software license and has a strong copyleft requirement. When distributing derived works, the source code of the work must be made available under the same license. There are multiple variants of the GNU GPL, each with different requirements.
-
-Permissions
- Commercial use
- Modification
- Distribution
- Private use
-Limitations
- Liability
- Warranty
-Conditions
- License and copyright notice
- State changes
- Disclose source
- Same license
-This is not legal advice. Learn more about repository licenses.
-@Hermany13 Hermany13 Repository init
-403945b 14 days ago
-339 lines (281 sloc)  17.7 KB
-  
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
@@ -376,15 +337,3 @@ proprietary programs.  If your program is a subroutine library, you may
 consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
